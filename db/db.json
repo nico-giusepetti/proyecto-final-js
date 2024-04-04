@@ -1,0 +1,149 @@
+[
+    {
+        "id": "aminoacidos-2",
+        "nombre": "RELIEF - AMINOACIDOS BCAA x250 capsulas SLMF LABS",
+        "precio": 9054,
+        "imagen": "./imagenes/productos/bcaa-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "aminoacidos-3",
+        "nombre": "REVIVAL - AMINOACIDOS x340 capsulas SLMF LABS",
+        "precio": 17702,
+        "imagen": "./imagenes/productos/aminoacidos-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "oxido-nitrico-1",
+        "nombre": "PROVOKE - OXIDO NÍTRICO x120 capsulas SLMF LABS",
+        "precio": 13734,
+        "imagen": "./imagenes/productos/oxido-nitrico-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "pro-hormonal-1",
+        "nombre": "MAD STRENGTH - PRO HORMONAL x60 capsulas SLMF LABS",
+        "precio": 18273,
+        "imagen": "./imagenes/productos/pro-hormonal-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "vitaminas-1",
+        "nombre": "VITAL - VITAMINAS Y MINERALES x90 capsulas SLMF LABS",
+        "precio": 11394,
+        "imagen": "./imagenes/productos/vitaminas-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "glutamina-2",
+        "nombre": "REVIVAL - GLUTAMINA 500 gr SLMF LABS",
+        "precio": 13683,
+        "imagen": "./imagenes/productos/glutamina-slmflabs.jpg.webp",
+        "marca": "slmf labs"
+    },
+    {
+        "id": "proteina-1",
+        "nombre": "PROTEINA POTE 2 Lb STAR NUTRITION",
+        "precio": 23619,
+        "imagen": "./imagenes/productos/proteina-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "creatina-1",
+        "nombre": "CREATINA MICRONIZADA 300 GR STAR NUTRITION",
+        "precio": 23438,
+        "imagen": "./imagenes/productos/creatina-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "quemador-1",
+        "nombre": "QUEMADOR DE GRASA x60 COMPRIMIDOS STAR NUTRITION",
+        "precio": 8718,
+        "imagen": "./imagenes/productos/quemador-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "colageno-1",
+        "nombre": "COLÁGENO HIDROLIZADO 210 gr STAR NUTRITION",
+        "precio": 11511,
+        "imagen": "./imagenes/productos/colageno-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "glutamina-1",
+        "nombre": "GLUTAMINA MICRONIZADA 300 gr STAR NUTRITION",
+        "precio": 17643,
+        "imagen": "./imagenes/productos/glutamina-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "aminoacidos-1",
+        "nombre": "AMINOACIDOS RAMNIFICADOS 270 gr STAR NUTRITION",
+        "precio": 17032,
+        "imagen": "./imagenes/productos/bcaa-star.jpg",
+        "marca": "star nutrition"
+    },
+    {
+        "id": "proteina-2",
+        "nombre": "PROTEINA WHEY POTE 2 Lb ENA",
+        "precio": 28350,
+        "imagen": "./imagenes/productos/proteina-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "aminoacidos-4",
+        "nombre": "AMINO 4500 x150 tabs ENA",
+        "precio": 23550,
+        "imagen": "./imagenes/productos/aminoacidos-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "aminoacidos-5",
+        "nombre": "AMINOACIDOS RAMNIFICADOS BCAA 12:1:1 x120 caps. ENA",
+        "precio": 13450,
+        "imagen": "./imagenes/productos/bcaa-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "colageno_2",
+        "nombre": "COLÁGENO HIDROLIZADO 407 gr ENA",
+        "precio": 28350,
+        "imagen": "./imagenes/productos/colageno-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "creatina-2",
+        "nombre": "CREATINA MICRONIZADA 300 gr ENA",
+        "precio": 31700,
+        "imagen": "./imagenes/productos/creatina-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "glutamina-3",
+        "nombre": "GLUTAMINA MICRONIZADA 300 gr ENA",
+        "precio": 28900,
+        "imagen": "./imagenes/productos/glutamina-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "oxido-nitrico-2",
+        "nombre": "ÓXIDO NÍTRICO 210 gr ENA",
+        "precio": 15500,
+        "imagen": "./imagenes/productos/oxido-nitrico-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "pre-entreno-1",
+        "nombre": "PRE WAR 400 gr ENA",
+        "precio": 27550,
+        "imagen": "./imagenes/productos/pre-entreno-ena.webp",
+        "marca": "ena"
+    },
+    {
+        "id": "vitaminas-2",
+        "nombre": "MULTIVITAMÍNICO x60 comprimidos ENA",
+        "precio": 11350,
+        "imagen": "./imagenes/productos/vitaminas-ena.webp",
+        "marca": "ena"
+    }
+]

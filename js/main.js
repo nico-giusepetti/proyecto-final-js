@@ -12,7 +12,7 @@ const formInput = document.querySelector("#form-input");
 // trae los productos desde un JSON con Fetch, y los almacena en el array productos
 let productos = [];
 
-fetch("./db/db.json")
+fetch("db/db.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
